@@ -1,0 +1,5 @@
+.venv/
+.env
+index_store
+tmp_uploads
+__pycache__ 
