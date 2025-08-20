@@ -28,3 +28,7 @@ pip install -r requirements.txt
 export OPENAI_API_KEY="sk-..."   # Windows: setx OPENAI_API_KEY "sk-..."
 streamlit run app.py
 ```
+## Deployed App
+```
+https://nandavaram-mahesh-pdf-rag-app-langchain-modular-app-h80nu2.streamlit.app/
+```
